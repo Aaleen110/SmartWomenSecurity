@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/aaleen/.android/build-cache/98217fe5774be290807e5693e7a49e4b45450b6e/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/aaleen/.android/build-cache/98217fe5774be290807e5693e7a49e4b45450b6e/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/aaleen/.android/build-cache/98217fe5774be290807e5693e7a49e4b45450b6e/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/aaleen/.android/build-cache/98217fe5774be290807e5693e7a49e4b45450b6e/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

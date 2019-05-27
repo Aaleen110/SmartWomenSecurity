@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:gravity="center">
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#ffffff"
+        android:orientation="vertical"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:paddingTop="16dp">
+
+    <TextView
+        android:text="Type in the custom message you wish to send alert"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18dp"
+        android:fontFamily="serif"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:padding="8dp"/>
+
+        <EditText
+            android:id="@+id/edtCusomMessage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:singleLine="true"
+            android:padding="16dp"/>
+
+        <Button
+            android:id="@+id/btnSaveCustomMessage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:textColor="#ffffff"
+            android:background="@color/colorAccent"
+            android:layout_gravity="center"
+            android:textStyle="bold"
+            android:fontFamily="serif"
+            android:text="Save"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>

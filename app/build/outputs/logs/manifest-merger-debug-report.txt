@@ -1,0 +1,228 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:2:1-87:12
+	package
+		ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:7:5-88
+	android:name
+		ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:7:22-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:10:5-64
+	android:name
+		ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:10:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:14:5-71
+	android:name
+		ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:14:22-68
+uses-permission#android.permission.SEND_SMS
+ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:17:5-66
+	android:name
+		ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:17:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:20:5-80
+	android:name
+		ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:20:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:21:5-78
+	android:name
+		ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:21:22-76
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:24:22-66
+uses-feature#android.hardware.sensor.accelerometer
+ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:29:5-30:35
+	android:required
+		ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:30:9-32
+	android:name
+		ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:29:19-71
+uses-feature#android.hardware.camera
+ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:32:5-33:35
+	android:required
+		ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:33:9-32
+	android:name
+		ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:32:19-57
+application
+ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:36:5-85:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/aaleen/.android/build-cache/577013d6c94c3fca2bc013a7ae05af7da4a7c8cc/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/aaleen/.android/build-cache/7fc8dc9d45ecb9a1920eea466175842c6d37f46a/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:design:25.3.1] /Users/aaleen/.android/build-cache/8c15783cd4adf35a7bb0b1f4824935906bb5b0bc/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/aaleen/.android/build-cache/98217fe5774be290807e5693e7a49e4b45450b6e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/aaleen/.android/build-cache/f0d24dc364210fc7f8bec858ec0eef40953ab72c/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/aaleen/.android/build-cache/8f1f8137f8f3940c3093df748a7010de438517e1/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/aaleen/.android/build-cache/3325d74681a0bbf68cfb3dbf7680996b7af9dc78/output/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-location:10.2.6] /Users/aaleen/.android/build-cache/9457675fe178224e8d64a6da58b496971f1ae5a6/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.6] /Users/aaleen/.android/build-cache/15c6f3087e5c7a4d43c64b6440c287408a2bab81/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] /Users/aaleen/.android/build-cache/ee1f84d9125753c3ff5332b2d0689933831d9a59/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] /Users/aaleen/.android/build-cache/14681e7b0b7c3f4bc71ecfac2f07a92625d3fe78/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] /Users/aaleen/.android/build-cache/a4dfc0c7d75425742ccc42ee07cab449789b0f8d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/aaleen/.android/build-cache/fdc3c80d821e4931c02924f862424db68365eb75/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/aaleen/.android/build-cache/2bd894d672ca582a3846b768cd9155731c4fd95f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/aaleen/.android/build-cache/c8aebcaaab98f68141d1e346d0eee2cf09fdb105/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/aaleen/.android/build-cache/0bdab3ee0e697f6fa2dc0d8227e18d2f842a11bc/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/aaleen/.android/build-cache/c8101508206beeea966305672b7a38eb1cfb580d/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:39:9-41
+	android:supportsRtl
+		ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:41:9-35
+	android:roundIcon
+		ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:40:9-54
+	android:allowBackup
+		ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:37:9-35
+	android:icon
+		ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:38:9-44
+	android:largeHeap
+		ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:42:9-33
+	android:theme
+		ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:43:9-40
+activity#georeach.smartwomensecurity.Activity.Splashpage
+ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:44:9-50:20
+	android:name
+		ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:44:19-54
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:45:13-49:29
+action#android.intent.action.MAIN
+ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:46:17-69
+	android:name
+		ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:46:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:48:17-77
+	android:name
+		ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:48:27-74
+activity#georeach.smartwomensecurity.MainActivity
+ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:52:9-53:51
+	android:screenOrientation
+		ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:53:13-49
+	android:name
+		ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:52:19-47
+activity#georeach.smartwomensecurity.Activity.Login
+ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:55:9-56:51
+	android:screenOrientation
+		ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:56:13-49
+	android:name
+		ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:55:19-49
+activity#georeach.smartwomensecurity.Activity.RegisterActivity
+ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:58:9-59:51
+	android:screenOrientation
+		ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:59:13-49
+	android:name
+		ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:58:19-60
+activity#georeach.smartwomensecurity.Activity.SendMessage
+ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:61:9-62:51
+	android:screenOrientation
+		ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:62:13-49
+	android:name
+		ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:61:19-55
+activity#georeach.smartwomensecurity.Activity.SendGps
+ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:65:9-66:51
+	android:screenOrientation
+		ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:66:13-49
+	android:name
+		ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:65:19-51
+activity#georeach.smartwomensecurity.Activity.SpyCamera
+ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:68:9-70:51
+	android:screenOrientation
+		ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:70:13-49
+	android:theme
+		ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:69:13-60
+	android:name
+		ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:68:19-53
+activity#georeach.smartwomensecurity.Activity.SpyVideo
+ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:72:9-74:51
+	android:screenOrientation
+		ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:74:13-49
+	android:theme
+		ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:73:13-60
+	android:name
+		ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:72:19-52
+activity#georeach.smartwomensecurity.Activity.EmergencyCall
+ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:76:9-77:51
+	android:screenOrientation
+		ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:77:13-49
+	android:name
+		ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:76:19-57
+activity#georeach.smartwomensecurity.Activity.SpyAudioRecorder
+ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:80:9-83:51
+	android:screenOrientation
+		ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:83:13-49
+	android:configChanges
+		ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:81:13-74
+	android:theme
+		ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:82:13-60
+	android:name
+		ADDED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml:80:19-60
+uses-sdk
+INJECTED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/aaleen/.android/build-cache/577013d6c94c3fca2bc013a7ae05af7da4a7c8cc/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/aaleen/.android/build-cache/7fc8dc9d45ecb9a1920eea466175842c6d37f46a/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:25.3.1] /Users/aaleen/.android/build-cache/8c15783cd4adf35a7bb0b1f4824935906bb5b0bc/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/aaleen/.android/build-cache/98217fe5774be290807e5693e7a49e4b45450b6e/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/aaleen/.android/build-cache/f0d24dc364210fc7f8bec858ec0eef40953ab72c/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/aaleen/.android/build-cache/8f1f8137f8f3940c3093df748a7010de438517e1/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/aaleen/.android/build-cache/253f1e051aab83d4e3c4f0b5e052eb1f6192f6dc/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /Users/aaleen/.android/build-cache/3325d74681a0bbf68cfb3dbf7680996b7af9dc78/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:10.2.6] /Users/aaleen/.android/build-cache/9457675fe178224e8d64a6da58b496971f1ae5a6/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.6] /Users/aaleen/.android/build-cache/15c6f3087e5c7a4d43c64b6440c287408a2bab81/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] /Users/aaleen/.android/build-cache/ee1f84d9125753c3ff5332b2d0689933831d9a59/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] /Users/aaleen/.android/build-cache/14681e7b0b7c3f4bc71ecfac2f07a92625d3fe78/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] /Users/aaleen/.android/build-cache/a4dfc0c7d75425742ccc42ee07cab449789b0f8d/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/aaleen/.android/build-cache/fdc3c80d821e4931c02924f862424db68365eb75/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/aaleen/.android/build-cache/2bd894d672ca582a3846b768cd9155731c4fd95f/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/aaleen/.android/build-cache/c8aebcaaab98f68141d1e346d0eee2cf09fdb105/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/aaleen/.android/build-cache/0bdab3ee0e697f6fa2dc0d8227e18d2f842a11bc/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /Users/aaleen/.android/build-cache/c8101508206beeea966305672b7a38eb1cfb580d/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /Users/aaleen/.android/build-cache/8c15783cd4adf35a7bb0b1f4824935906bb5b0bc/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:25.3.1] /Users/aaleen/.android/build-cache/7fc8dc9d45ecb9a1920eea466175842c6d37f46a/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:design:25.3.1] /Users/aaleen/.android/build-cache/8c15783cd4adf35a7bb0b1f4824935906bb5b0bc/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/aaleen/.android/build-cache/98217fe5774be290807e5693e7a49e4b45450b6e/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/aaleen/.android/build-cache/f0d24dc364210fc7f8bec858ec0eef40953ab72c/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/aaleen/.android/build-cache/8f1f8137f8f3940c3093df748a7010de438517e1/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/aaleen/.android/build-cache/253f1e051aab83d4e3c4f0b5e052eb1f6192f6dc/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/aaleen/.android/build-cache/3325d74681a0bbf68cfb3dbf7680996b7af9dc78/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/aaleen/.android/build-cache/a4dfc0c7d75425742ccc42ee07cab449789b0f8d/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/aaleen/.android/build-cache/fdc3c80d821e4931c02924f862424db68365eb75/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/aaleen/.android/build-cache/2bd894d672ca582a3846b768cd9155731c4fd95f/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/aaleen/.android/build-cache/c8aebcaaab98f68141d1e346d0eee2cf09fdb105/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/aaleen/.android/build-cache/0bdab3ee0e697f6fa2dc0d8227e18d2f842a11bc/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/aaleen/.android/build-cache/c8101508206beeea966305672b7a38eb1cfb580d/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:cardview-v7:25.3.1] /Users/aaleen/.android/build-cache/7fc8dc9d45ecb9a1920eea466175842c6d37f46a/output/AndroidManifest.xml:24:9-31
+	android:name
+		ADDED from [com.android.support:cardview-v7:25.3.1] /Users/aaleen/.android/build-cache/7fc8dc9d45ecb9a1920eea466175842c6d37f46a/output/AndroidManifest.xml:23:9-47
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.6] /Users/aaleen/.android/build-cache/15c6f3087e5c7a4d43c64b6440c287408a2bab81/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] /Users/aaleen/.android/build-cache/15c6f3087e5c7a4d43c64b6440c287408a2bab81/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] /Users/aaleen/.android/build-cache/15c6f3087e5c7a4d43c64b6440c287408a2bab81/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] /Users/aaleen/.android/build-cache/15c6f3087e5c7a4d43c64b6440c287408a2bab81/output/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.6] /Users/aaleen/.android/build-cache/14681e7b0b7c3f4bc71ecfac2f07a92625d3fe78/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.6] /Users/aaleen/.android/build-cache/14681e7b0b7c3f4bc71ecfac2f07a92625d3fe78/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.6] /Users/aaleen/.android/build-cache/14681e7b0b7c3f4bc71ecfac2f07a92625d3fe78/output/AndroidManifest.xml:20:20-65

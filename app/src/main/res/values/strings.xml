@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Smart Women Security</string>
+
+    <string name="register_here"><u>Register Here</u></string>
+    <string name="forgot_password"><u><i>Forgot password?</i></u></string>
+
+    <string name="already_member"><u>Already a member? Login</u></string>
+
+    <string name="hint_user">Press and hold the above button for 2 seconds to send message to your hot contacts</string>
+
+    <string name="hint_user_gps">Press and hold the above button for 2 seconds to send your current location to your hot contacts</string>
+
+    <string name="about_me" > My name is Aaleen Mirza, I am pursuining MBA-IT from Poona Institute of Management Sciences college, This app is developed by me keeping in mind the current stuation of womens, This app is made for womens who work late or often find themselves in difficult situations.</string>
+
+   <string name="help">
+       There are Six Modules in this app\n
+   1.) Send Message: This will send the message to all your contacts which you add in your list\n
+   To add contact simply write the name in the box given (should match with the name in your Contact Appllication) and hit add button\n
+   The Contact added will be your hot contact and will be displayed\n
+   If you hold the reed button for 2 seconds, A message will be delivered to the contacts in hot contact list\n
+   Simply hold the contact if you wish to remove them from hot contact\n\n
+
+   2.) Send Gps: Similar to Send Message, the only difference is that your gps location wil be sent to your hot contacts\n\n
+
+   3.) Spy Camera: To click pictures in spy mode without getting recognized by simply tapping anywhere on the screen\n\n
+
+   4.)Spy Video: To record the video in spy mode without getting recognized by simply tapping on screen to start recording and again tapping to stop recording. The videos are then saved to your External sd Card\n\n
+
+   5.) Spy Audio: To record the audio in spy mode without getting recognized simply tap the screen once to start audio record and tap again to stop the record.\n\n
+
+   6.) Emergency Call: The user can place an emergency call to the contacts added in the emergency contacts list, to do so there  are two ways, first is by simply tapping the contact from emergency contact list, second is by just opening that section and shaking
+       the phone, the call will be placed on basis of priority of the contact added.
+
+   </string>
+
+    <string name="emergency_hint">Simply shake the phone to dial a call to emergency contacts</string>
+
+</resources>

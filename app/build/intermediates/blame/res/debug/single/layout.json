@@ -1,0 +1,290 @@
+[
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/custom_view_contactlist.xml",
+        "source": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/res/layout/custom_view_contactlist.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/change_password_frag.xml",
+        "source": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/res/layout/change_password_frag.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/aaleen/.android/build-cache/98217fe5774be290807e5693e7a49e4b45450b6e/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/aaleen/.android/build-cache/8c15783cd4adf35a7bb0b1f4824935906bb5b0bc/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/aaleen/.android/build-cache/98217fe5774be290807e5693e7a49e4b45450b6e/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/splash_page.xml",
+        "source": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/res/layout/splash_page.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/aaleen/.android/build-cache/98217fe5774be290807e5693e7a49e4b45450b6e/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/custom_view_emergencylist.xml",
+        "source": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/res/layout/custom_view_emergencylist.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/aaleen/.android/build-cache/98217fe5774be290807e5693e7a49e4b45450b6e/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/aaleen/.android/build-cache/98217fe5774be290807e5693e7a49e4b45450b6e/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/aaleen/.android/build-cache/98217fe5774be290807e5693e7a49e4b45450b6e/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/aaleen/.android/build-cache/8c15783cd4adf35a7bb0b1f4824935906bb5b0bc/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/aaleen/.android/build-cache/98217fe5774be290807e5693e7a49e4b45450b6e/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/register_layout.xml",
+        "source": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/res/layout/register_layout.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/aaleen/.android/build-cache/98217fe5774be290807e5693e7a49e4b45450b6e/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/emergency_call_layout.xml",
+        "source": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/res/layout/emergency_call_layout.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/aaleen/.android/build-cache/98217fe5774be290807e5693e7a49e4b45450b6e/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/aaleen/.android/build-cache/98217fe5774be290807e5693e7a49e4b45450b6e/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/aaleen/.android/build-cache/8c15783cd4adf35a7bb0b1f4824935906bb5b0bc/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/emergency_contacts_help.xml",
+        "source": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/res/layout/emergency_contacts_help.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/aaleen/.android/build-cache/98217fe5774be290807e5693e7a49e4b45450b6e/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/aaleen/.android/build-cache/98217fe5774be290807e5693e7a49e4b45450b6e/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/custom_message_fragment.xml",
+        "source": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/res/layout/custom_message_fragment.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/aaleen/.android/build-cache/98217fe5774be290807e5693e7a49e4b45450b6e/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/aaleen/.android/build-cache/98217fe5774be290807e5693e7a49e4b45450b6e/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/aaleen/.android/build-cache/98217fe5774be290807e5693e7a49e4b45450b6e/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/aaleen/.android/build-cache/98217fe5774be290807e5693e7a49e4b45450b6e/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/aaleen/.android/build-cache/8c15783cd4adf35a7bb0b1f4824935906bb5b0bc/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/spy_audio_recorder.xml",
+        "source": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/res/layout/spy_audio_recorder.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/about_frag_layout.xml",
+        "source": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/res/layout/about_frag_layout.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/aaleen/.android/build-cache/98217fe5774be290807e5693e7a49e4b45450b6e/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/aaleen/.android/build-cache/8c15783cd4adf35a7bb0b1f4824935906bb5b0bc/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/aaleen/.android/build-cache/98217fe5774be290807e5693e7a49e4b45450b6e/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/aaleen/.android/build-cache/98217fe5774be290807e5693e7a49e4b45450b6e/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/aaleen/.android/build-cache/8c15783cd4adf35a7bb0b1f4824935906bb5b0bc/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/aaleen/.android/build-cache/98217fe5774be290807e5693e7a49e4b45450b6e/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/aaleen/.android/build-cache/98217fe5774be290807e5693e7a49e4b45450b6e/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/aaleen/.android/build-cache/8c15783cd4adf35a7bb0b1f4824935906bb5b0bc/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/aaleen/.android/build-cache/98217fe5774be290807e5693e7a49e4b45450b6e/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/Users/aaleen/.android/build-cache/8c15783cd4adf35a7bb0b1f4824935906bb5b0bc/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/spy_video_layout.xml",
+        "source": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/res/layout/spy_video_layout.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/aaleen/.android/build-cache/98217fe5774be290807e5693e7a49e4b45450b6e/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/aaleen/.android/build-cache/8c15783cd4adf35a7bb0b1f4824935906bb5b0bc/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/aaleen/.android/build-cache/98217fe5774be290807e5693e7a49e4b45450b6e/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/aaleen/.android/build-cache/8c15783cd4adf35a7bb0b1f4824935906bb5b0bc/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/aaleen/.android/build-cache/98217fe5774be290807e5693e7a49e4b45450b6e/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/add_contact_layout.xml",
+        "source": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/res/layout/add_contact_layout.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/aaleen/.android/build-cache/98217fe5774be290807e5693e7a49e4b45450b6e/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/aaleen/.android/build-cache/98217fe5774be290807e5693e7a49e4b45450b6e/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/aaleen/.android/build-cache/98217fe5774be290807e5693e7a49e4b45450b6e/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/aaleen/.android/build-cache/8c15783cd4adf35a7bb0b1f4824935906bb5b0bc/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/aaleen/.android/build-cache/98217fe5774be290807e5693e7a49e4b45450b6e/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/send_message_layout.xml",
+        "source": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/res/layout/send_message_layout.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/aaleen/.android/build-cache/8c15783cd4adf35a7bb0b1f4824935906bb5b0bc/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/aaleen/.android/build-cache/98217fe5774be290807e5693e7a49e4b45450b6e/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/login_layout.xml",
+        "source": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/res/layout/login_layout.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/help_frag_layout.xml",
+        "source": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/res/layout/help_frag_layout.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/aaleen/.android/build-cache/8c15783cd4adf35a7bb0b1f4824935906bb5b0bc/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/aaleen/.android/build-cache/98217fe5774be290807e5693e7a49e4b45450b6e/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/aaleen/.android/build-cache/98217fe5774be290807e5693e7a49e4b45450b6e/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/aaleen/.android/build-cache/98217fe5774be290807e5693e7a49e4b45450b6e/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/aaleen/.android/build-cache/8c15783cd4adf35a7bb0b1f4824935906bb5b0bc/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/forgot_password_frag.xml",
+        "source": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/res/layout/forgot_password_frag.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/aaleen/.android/build-cache/98217fe5774be290807e5693e7a49e4b45450b6e/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/aaleen/.android/build-cache/98217fe5774be290807e5693e7a49e4b45450b6e/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/aaleen/.android/build-cache/98217fe5774be290807e5693e7a49e4b45450b6e/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/aaleen/.android/build-cache/98217fe5774be290807e5693e7a49e4b45450b6e/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/aaleen/.android/build-cache/98217fe5774be290807e5693e7a49e4b45450b6e/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/spy_camera_layout.xml",
+        "source": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/res/layout/spy_camera_layout.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/aaleen/.android/build-cache/98217fe5774be290807e5693e7a49e4b45450b6e/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/build/intermediates/res/merged/debug/layout/send_gps_layout.xml",
+        "source": "/Users/aaleen/Desktop/SmartWomen/SmartWomenSecurity/app/src/main/res/layout/send_gps_layout.xml"
+    }
+]
